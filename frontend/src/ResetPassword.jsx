@@ -197,7 +197,7 @@ export default function ResetPassword() {
               className="flex items-center justify-center gap-2 text-zinc-400 hover:text-orange-500 text-sm mt-6 transition"
             >
               <ArrowLeft size={16} />
-              Back to Sign In
+              Move Back
             </Link>
 
           </form>
